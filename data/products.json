@@ -1,0 +1,312 @@
+[
+  {
+    "id": "e1",
+    "category": "electronics",
+    "type": "Laptops",
+    "name": "Lenovo IdeaPad Slim 3",
+    "brand": "Lenovo",
+    "price": 42990,
+    "icon": "💻",
+    "description": "Everyday laptop for study, work, and browsing.",
+    "specs": [
+      "15.6-inch display",
+      "16 GB RAM",
+      "512 GB SSD"
+    ],
+    "tags": "laptop student college everyday work notebook lenovo",
+    "attributes": {
+      "Display": "15.6-inch",
+      "Memory": "16 GB RAM",
+      "Storage": "512 GB SSD",
+      "Use": "Study and everyday work"
+    },
+    "sample": true
+  },
+  {
+    "id": "e2",
+    "category": "electronics",
+    "type": "Laptops",
+    "name": "ASUS Vivobook 15",
+    "brand": "ASUS",
+    "price": 48990,
+    "icon": "💻",
+    "description": "Versatile laptop with a roomy display.",
+    "specs": [
+      "15.6-inch display",
+      "16 GB RAM",
+      "512 GB SSD"
+    ],
+    "tags": "laptop asus college office productivity notebook",
+    "attributes": {
+      "Display": "15.6-inch",
+      "Memory": "16 GB RAM",
+      "Storage": "512 GB SSD",
+      "Use": "Productivity"
+    },
+    "sample": true
+  },
+  {
+    "id": "e3",
+    "category": "electronics",
+    "type": "Headphones",
+    "name": "Sony WH-CH520",
+    "brand": "Sony",
+    "price": 4490,
+    "icon": "🎧",
+    "description": "Lightweight wireless headphones for everyday listening.",
+    "specs": [
+      "Wireless Bluetooth",
+      "On-ear design",
+      "Built-in microphone"
+    ],
+    "tags": "headphones sony wireless bluetooth music audio on ear",
+    "attributes": {
+      "Connection": "Bluetooth",
+      "Design": "On-ear",
+      "Microphone": "Built-in"
+    },
+    "sample": true
+  },
+  {
+    "id": "e4",
+    "category": "electronics",
+    "type": "Headphones",
+    "name": "JBL Tune 770NC",
+    "brand": "JBL",
+    "price": 6999,
+    "icon": "🎧",
+    "description": "Wireless headphones with noise-cancelling features.",
+    "specs": [
+      "Wireless Bluetooth",
+      "Noise cancelling",
+      "Over-ear design"
+    ],
+    "tags": "headphones jbl wireless bluetooth anc noise cancelling music",
+    "attributes": {
+      "Connection": "Bluetooth",
+      "Noise control": "Noise cancelling",
+      "Design": "Over-ear"
+    },
+    "sample": true
+  },
+  {
+    "id": "e5",
+    "category": "electronics",
+    "type": "Tablets",
+    "name": "Samsung Galaxy Tab A9+",
+    "brand": "Samsung",
+    "price": 17999,
+    "icon": "▣",
+    "description": "A tablet for reading, streaming, and light productivity.",
+    "specs": [
+      "11-inch display",
+      "Wi-Fi model",
+      "Multi-purpose"
+    ],
+    "tags": "tablet samsung galaxy reading streaming android",
+    "attributes": {
+      "Display": "11-inch",
+      "Connectivity": "Wi-Fi",
+      "Use": "Reading and media"
+    },
+    "sample": true
+  },
+  {
+    "id": "e6",
+    "category": "electronics",
+    "type": "Monitors",
+    "name": "LG 24-inch Full HD Monitor",
+    "brand": "LG",
+    "price": 8999,
+    "icon": "🖥️",
+    "description": "Full HD monitor for home offices and study desks.",
+    "specs": [
+      "24-inch display",
+      "Full HD",
+      "Desktop monitor"
+    ],
+    "tags": "monitor lg computer display screen office gaming full hd",
+    "attributes": {
+      "Display": "24-inch",
+      "Resolution": "Full HD",
+      "Use": "Office and study"
+    },
+    "sample": true
+  },
+  {
+    "id": "e7",
+    "category": "electronics",
+    "type": "Smartphones",
+    "name": "Samsung Galaxy A-series (example)",
+    "brand": "Samsung",
+    "price": 14999,
+    "icon": "📱",
+    "description": "Example smartphone listing for testing product search.",
+    "specs": [
+      "128 GB storage",
+      "Android",
+      "Large battery class"
+    ],
+    "tags": "phone smartphone samsung galaxy android camera battery",
+    "attributes": {
+      "Storage": "128 GB",
+      "Platform": "Android",
+      "Use": "Everyday smartphone"
+    },
+    "sample": true
+  },
+  {
+    "id": "e8",
+    "category": "electronics",
+    "type": "Cameras",
+    "name": "Canon EOS R50 (example)",
+    "brand": "Canon",
+    "price": 64990,
+    "icon": "📷",
+    "description": "Example mirrorless camera for photo and video interests.",
+    "specs": [
+      "Mirrorless camera",
+      "Interchangeable lens",
+      "Photo and video"
+    ],
+    "tags": "camera canon photography mirrorless video creator",
+    "attributes": {
+      "Type": "Mirrorless",
+      "Lens": "Interchangeable",
+      "Use": "Photo and video"
+    },
+    "sample": true
+  },
+  {
+    "id": "s1",
+    "category": "skincare",
+    "type": "Moisturizers",
+    "name": "Cetaphil Moisturising Lotion",
+    "brand": "Cetaphil",
+    "price": 699,
+    "icon": "🧴",
+    "description": "Moisturising lotion; check the current pack for ingredients and claims.",
+    "specs": [
+      "Lotion texture",
+      "Daily moisturiser",
+      "Skin compatibility varies"
+    ],
+    "tags": "cetaphil moisturizer moisturiser lotion dry skin skincare hydration",
+    "attributes": {
+      "Format": "Lotion",
+      "Purpose": "Moisturising",
+      "Note": "Check current packaging"
+    },
+    "sample": true
+  },
+  {
+    "id": "s2",
+    "category": "skincare",
+    "type": "Moisturizers",
+    "name": "Simple Hydrating Light Moisturiser",
+    "brand": "Simple",
+    "price": 399,
+    "icon": "🧴",
+    "description": "Light moisturiser option for a basic skincare routine.",
+    "specs": [
+      "Light texture",
+      "Moisturiser",
+      "Check ingredient list"
+    ],
+    "tags": "simple moisturizer moisturiser hydration face cream skincare",
+    "attributes": {
+      "Format": "Light moisturiser",
+      "Purpose": "Moisturising",
+      "Note": "Check current packaging"
+    },
+    "sample": true
+  },
+  {
+    "id": "s3",
+    "category": "skincare",
+    "type": "Sunscreen",
+    "name": "Neutrogena Ultra Sheer Sunscreen (example)",
+    "brand": "Neutrogena",
+    "price": 549,
+    "icon": "☀️",
+    "description": "Example sunscreen listing; verify SPF, UVA claims, and ingredients on pack.",
+    "specs": [
+      "Sunscreen",
+      "SPF varies by variant",
+      "Verify product label"
+    ],
+    "tags": "sunscreen sun protection spf neutrogena skincare uv",
+    "attributes": {
+      "Type": "Sunscreen",
+      "SPF": "Varies by variant",
+      "Note": "Verify product label"
+    },
+    "sample": true
+  },
+  {
+    "id": "s4",
+    "category": "skincare",
+    "type": "Cleansers",
+    "name": "CeraVe Foaming Cleanser (example)",
+    "brand": "CeraVe",
+    "price": 899,
+    "icon": "🫧",
+    "description": "Example facial cleanser; choose based on your skin and product label.",
+    "specs": [
+      "Facial cleanser",
+      "Foaming format",
+      "Check ingredient list"
+    ],
+    "tags": "cerave cleanser face wash foaming skincare oily skin",
+    "attributes": {
+      "Format": "Foaming cleanser",
+      "Purpose": "Cleansing",
+      "Note": "Check current packaging"
+    },
+    "sample": true
+  },
+  {
+    "id": "s5",
+    "category": "skincare",
+    "type": "Serums",
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "brand": "The Ordinary",
+    "price": 650,
+    "icon": "💧",
+    "description": "Example serum listing; skin responses vary, patch test new products.",
+    "specs": [
+      "Serum",
+      "Niacinamide formula",
+      "Check current pack"
+    ],
+    "tags": "the ordinary serum niacinamide zinc acne skincare face",
+    "attributes": {
+      "Format": "Serum",
+      "Key ingredient": "Niacinamide",
+      "Note": "Patch test new products"
+    },
+    "sample": true
+  },
+  {
+    "id": "s6",
+    "category": "skincare",
+    "type": "Lip Care",
+    "name": "Vaseline Lip Therapy (example)",
+    "brand": "Vaseline",
+    "price": 180,
+    "icon": "💋",
+    "description": "Example lip-care product. Verify size, ingredients, and variant.",
+    "specs": [
+      "Lip care",
+      "Portable format",
+      "Variant may differ"
+    ],
+    "tags": "vaseline lip balm lip therapy dry lips skincare",
+    "attributes": {
+      "Type": "Lip care",
+      "Use": "Lip moisturising",
+      "Note": "Check current packaging"
+    },
+    "sample": true
+  }
+]
